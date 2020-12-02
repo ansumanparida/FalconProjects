@@ -1,0 +1,1501 @@
+2020-07-27 20:44:07 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2020-07-27 20:44:07 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable sample is: sample
+2020-07-27 20:44:07 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_7_chrome_53 is: WIN_7_chrome_53
+2020-07-27 20:44:11 DEBUG SimpleXMLErrorHandler:40 - Fatal Error in Parsing XML Doucment. XML is not well formed: The markup declarations contained or pointed to by the document type declaration must be well-formed.
+2020-07-28 19:46:47 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2020-07-28 19:46:47 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable sample is: sample
+2020-07-28 19:46:47 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_7_chrome_53 is: WIN_7_chrome_53
+2020-07-28 19:56:20 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2020-07-28 19:56:20 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable sample is: sample
+2020-07-28 19:56:20 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2020-07-28 19:56:21 DEBUG SimpleXMLErrorHandler:40 - Fatal Error in Parsing XML Doucment. XML is not well formed: The markup declarations contained or pointed to by the document type declaration must be well-formed.
+2020-07-28 20:01:33 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2020-07-28 20:01:33 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable sample is: sample
+2020-07-28 20:01:33 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2020-07-28 20:01:34 DEBUG SimpleXMLErrorHandler:40 - Fatal Error in Parsing XML Doucment. XML is not well formed: The markup declarations contained or pointed to by the document type declaration must be well-formed.
+2020-07-28 20:03:53 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2020-07-28 20:03:53 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable sample is: sample
+2020-07-28 20:03:53 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2020-07-28 20:03:53 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2020-07-28 20:03:53 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [sample]
+
+2020-07-28 20:03:53 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_84
+2020-07-28 20:03:53 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_84">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="84"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="com.atmecs.falcon.falcon_ui_test.testscript.NsmAnchorTest"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_84 -->
+
+2020-07-28 20:07:06 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2020-07-28 20:07:06 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable sample is: sample
+2020-07-28 20:07:06 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2020-07-28 20:07:06 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2020-07-28 20:07:06 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [sample]
+
+2020-07-28 20:07:06 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_84
+2020-07-28 20:07:06 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_84">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="84"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="com.atmecs.falcon.falcon_ui_test.testscript.NsmAnchorTest"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_84 -->
+
+2020-07-28 20:09:00 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2020-07-28 20:09:00 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable sample is: sample
+2020-07-28 20:09:00 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2020-07-28 20:09:00 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2020-07-28 20:09:00 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [sample]
+
+2020-07-28 20:09:00 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_84
+2020-07-28 20:09:00 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_84">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="84"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="com.atmecs.falcon.falcon_ui_test.testscript.NsmAnchorTest"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_84 -->
+
+2020-07-28 20:12:22 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2020-07-28 20:12:22 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable sample is: sample
+2020-07-28 20:12:22 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2020-07-28 20:12:22 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2020-07-28 20:12:22 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [sample]
+
+2020-07-28 20:12:22 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_84
+2020-07-28 20:12:22 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_84">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="84"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="com.atmecs.falcon.falcon_ui_test.testscript.NsmAnchorTest"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_84 -->
+
+2020-07-28 20:15:31 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2020-07-28 20:15:31 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable sample is: sample
+2020-07-28 20:15:31 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2020-07-28 20:15:31 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2020-07-28 20:15:31 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [sample]
+
+2020-07-28 20:15:31 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_84
+2020-07-28 20:15:31 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_84">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="84"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="com.atmecs.falcon.falcon_ui_test.testscript.NsmAnchorTest"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_84 -->
+
+2020-07-29 11:35:55 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2020-07-29 11:35:55 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable sample is: sample
+2020-07-29 11:35:55 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2020-07-29 11:35:56 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2020-07-29 11:35:56 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [sample]
+
+2020-07-29 11:35:56 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_84
+2020-07-29 11:35:56 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_84">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="84"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="com.atmecs.falcon.falcon_ui_test.testscript.NsmAnchorTest"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_84 -->
+
+2020-07-29 11:43:57 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2020-07-29 11:43:57 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable sample is: sample
+2020-07-29 11:43:57 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2020-07-29 11:43:57 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2020-07-29 11:43:57 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [sample]
+
+2020-07-29 11:43:57 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_84
+2020-07-29 11:43:57 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_84">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="84"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="com.atmecs.falcon.falcon_ui_test.testscript.NsmContactUsTest"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_84 -->
+
+2020-07-29 11:53:03 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2020-07-29 11:53:03 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable sample is: sample
+2020-07-29 11:53:03 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2020-07-29 11:53:03 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2020-07-29 11:53:03 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [sample]
+
+2020-07-29 11:53:03 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_84
+2020-07-29 11:53:03 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_84">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="84"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="com.atmecs.falcon.falcon_ui_test.testscript.NsmContactUsTest"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_84 -->
+
+2020-07-29 11:55:16 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2020-07-29 11:55:16 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable sample is: sample
+2020-07-29 11:55:16 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2020-07-29 11:55:16 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2020-07-29 11:55:16 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [sample]
+
+2020-07-29 11:55:16 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_84
+2020-07-29 11:55:16 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_84">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="84"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="com.atmecs.falcon.falcon_ui_test.testscript.NsmContactUsTest"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_84 -->
+
+2020-07-29 12:02:08 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2020-07-29 12:02:08 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable sample is: sample
+2020-07-29 12:02:08 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2020-07-29 12:02:09 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2020-07-29 12:02:09 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [sample]
+
+2020-07-29 12:02:09 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_84
+2020-07-29 12:02:09 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_84">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="84"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="com.atmecs.falcon.falcon_ui_test.testscript.NsmContactUsTest"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_84 -->
+
+2020-07-29 12:03:47 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2020-07-29 12:03:47 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable sample is: sample
+2020-07-29 12:03:47 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2020-07-29 12:03:47 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2020-07-29 12:03:47 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [sample]
+
+2020-07-29 12:03:47 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_84
+2020-07-29 12:03:47 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_84">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="84"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="com.atmecs.falcon.falcon_ui_test.testscript.NsmContactUsTest"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_84 -->
+
+2020-07-29 12:05:26 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2020-07-29 12:05:26 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable sample is: sample
+2020-07-29 12:05:26 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2020-07-29 12:05:26 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2020-07-29 12:05:26 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [sample]
+
+2020-07-29 12:05:26 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_84
+2020-07-29 12:05:26 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_84">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="84"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="com.atmecs.falcon.falcon_ui_test.testscript.NsmContactUsTest"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_84 -->
+
+2020-07-29 12:19:44 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2020-07-29 12:19:44 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable sample is: sample
+2020-07-29 12:19:44 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2020-07-29 12:19:44 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2020-07-29 12:19:44 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [sample]
+
+2020-07-29 12:19:44 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_84
+2020-07-29 12:19:44 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_84">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="84"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="com.atmecs.falcon.falcon_ui_test.testscript.NsmContactUsTest"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_84 -->
+
+2020-07-31 13:14:18 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2020-07-31 13:14:18 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable sample is: sample
+2020-07-31 13:14:18 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2020-07-31 13:14:19 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2020-07-31 13:14:19 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [sample]
+
+2020-07-31 13:14:19 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_84
+2020-07-31 13:14:19 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_84">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="84"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="com.atmecs.falcon.falcon_ui_test.testscript.NsmContactUsTest"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_84 -->
+
+2020-07-31 13:16:42 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2020-07-31 13:16:42 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable sample is: sample
+2020-07-31 13:16:42 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2020-07-31 13:16:42 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2020-07-31 13:16:42 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [sample]
+
+2020-07-31 13:16:42 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_84
+2020-07-31 13:16:42 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_84">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="84"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="com.atmecs.falcon.falcon_ui_test.testscript.NsmContactUsTest"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_84 -->
+
+2020-07-31 13:21:12 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2020-07-31 13:21:12 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable sample is: sample
+2020-07-31 13:21:12 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2020-07-31 13:21:12 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2020-07-31 13:21:12 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [sample]
+
+2020-07-31 13:21:12 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_84
+2020-07-31 13:21:12 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_84">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="84"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="com.atmecs.falcon.falcon_ui_test.testscript.NsmContactUsTest"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_84 -->
+
+2020-07-31 13:22:46 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2020-07-31 13:22:46 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable sample is: sample
+2020-07-31 13:22:46 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2020-07-31 13:22:46 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2020-07-31 13:22:46 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [sample]
+
+2020-07-31 13:22:46 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_84
+2020-07-31 13:22:46 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_84">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="84"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="com.atmecs.falcon.falcon_ui_test.testscript.NsmContactUsTest"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_84 -->
+
+2020-07-31 13:25:42 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2020-07-31 13:25:42 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable sample is: sample
+2020-07-31 13:25:42 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2020-07-31 13:25:42 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2020-07-31 13:25:42 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [sample]
+
+2020-07-31 13:25:42 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_84
+2020-07-31 13:25:42 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_84">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="84"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="com.atmecs.falcon.falcon_ui_test.testscript.NsmContactUsTest"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_84 -->
+
+2020-07-31 14:32:56 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2020-07-31 14:32:56 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable sample is: sample
+2020-07-31 14:32:56 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2020-07-31 14:32:57 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2020-07-31 14:32:57 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [sample]
+
+2020-07-31 14:32:57 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_84
+2020-07-31 14:32:57 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_84">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="84"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="com.atmecs.falcon.falcon_ui_test.testscript.NsmContactUsTest"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_84 -->
+
+2020-07-31 18:31:58 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2020-07-31 18:31:58 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable sample is: sample
+2020-07-31 18:31:58 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2020-07-31 18:31:59 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2020-07-31 18:31:59 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [sample]
+
+2020-07-31 18:31:59 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_84
+2020-07-31 18:31:59 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_84">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="84"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="com.atmecs.falcon.falcon_ui_test.testscript.NsmContactUsTest"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_84 -->
+
+2020-07-31 18:33:37 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2020-07-31 18:33:37 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable sample is: sample
+2020-07-31 18:33:37 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2020-07-31 18:33:38 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2020-07-31 18:33:38 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [sample]
+
+2020-07-31 18:33:38 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_84
+2020-07-31 18:33:38 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_84">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="84"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="com.atmecs.falcon.falcon_ui_test.testscript.NsmContactUsTest"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_84 -->
+
+2020-07-31 21:25:14 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2020-07-31 21:25:14 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable sample is: sample
+2020-07-31 21:25:14 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2020-07-31 21:25:16 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2020-07-31 21:25:16 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [sample]
+
+2020-07-31 21:25:16 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_84
+2020-07-31 21:25:16 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_84">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="84"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="com.atmecs.falcon.falcon_ui_test.testscript.NsmContactUsTest"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_84 -->
+
+2020-08-04 19:00:04 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2020-08-04 19:00:04 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable sample is: sample
+2020-08-04 19:00:04 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2020-08-04 19:00:05 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2020-08-04 19:00:05 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [sample]
+
+2020-08-04 19:00:05 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_84
+2020-08-04 19:00:05 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_84">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="84"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="com.atmecs.falcon.falcon_ui_test.testscript.AtmecsContactUsTest"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_84 -->
+
+2020-08-04 19:02:53 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2020-08-04 19:02:53 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable sample is: sample
+2020-08-04 19:02:53 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2020-08-04 19:02:54 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2020-08-04 19:02:54 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [sample]
+
+2020-08-04 19:02:54 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_84
+2020-08-04 19:02:54 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_84">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="84"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="com.atmecs.falcon.falcon_ui_test.testscript.AtmecsContactUsTest"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_84 -->
+
+2020-08-04 19:04:28 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2020-08-04 19:04:28 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable sample is: sample
+2020-08-04 19:04:28 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2020-08-04 19:04:28 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2020-08-04 19:04:28 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [sample]
+
+2020-08-04 19:04:28 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_84
+2020-08-04 19:04:28 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_84">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="84"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="com.atmecs.falcon.falcon_ui_test.testscript.AtmecsContactUsTest"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_84 -->
+
+2020-08-04 19:18:29 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2020-08-04 19:18:29 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable sample is: sample
+2020-08-04 19:18:29 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2020-08-04 19:18:29 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2020-08-04 19:18:29 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [sample]
+
+2020-08-04 19:18:29 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_84
+2020-08-04 19:18:29 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_84">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="84"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="com.atmecs.falcon.falcon_ui_test.testscript.AtmecsContactUsTest"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_84 -->
+
+2020-08-04 19:29:23 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2020-08-04 19:29:23 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable contactus is: contactus
+2020-08-04 19:29:23 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2020-08-04 19:29:23 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2020-08-04 19:29:23 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [contactus]
+
+2020-08-04 19:29:23 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_84
+2020-08-04 19:29:23 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_84">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="84"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="com.atmecs.falcon.falcon_ui_test.testscript.AtmecsContactUsTest"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_84 -->
+
+2020-08-04 19:30:08 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2020-08-04 19:30:08 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable googlesearch is: googlesearch
+2020-08-04 19:30:08 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2020-08-04 19:30:09 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2020-08-04 19:30:09 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [googlesearch]
+
+2020-08-04 19:30:09 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_84
+2020-08-04 19:30:09 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_84">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="84"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="com.atmecs.falcon.falcon_ui_test.testscript.SampleTestScript"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_84 -->
+
+2020-08-04 19:34:52 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2020-08-04 19:34:52 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable googlesearch is: googlesearch
+2020-08-04 19:34:52 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2020-08-04 19:34:52 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2020-08-04 19:34:52 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [googlesearch]
+
+2020-08-04 19:34:52 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_84
+2020-08-04 19:34:52 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_84">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="84"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="com.atmecs.falcon.falcon_ui_test.testscript.SampleTestScript"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_84 -->
+
+2020-08-04 19:35:47 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2020-08-04 19:35:47 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable contactus is: contactus
+2020-08-04 19:35:47 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2020-08-04 19:35:47 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2020-08-04 19:35:47 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [contactus]
+
+2020-08-04 19:35:47 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_84
+2020-08-04 19:35:47 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_84">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="84"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="com.atmecs.falcon.falcon_ui_test.testscript.AtmecsContactUsTest"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_84 -->
+
+2020-08-04 19:36:48 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2020-08-04 19:36:48 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable contactus,googlesearch is: contactus,googlesearch
+2020-08-04 19:36:48 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2020-08-04 19:36:48 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2020-08-04 19:36:48 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [contactus, googlesearch]
+
+2020-08-04 19:36:48 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_84
+2020-08-04 19:36:48 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_84">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="84"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="com.atmecs.falcon.falcon_ui_test.testscript.SampleTestScript"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_84 -->
+
+2020-08-04 19:36:48 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_84
+2020-08-04 19:36:48 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_84">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="84"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="com.atmecs.falcon.falcon_ui_test.testscript.AtmecsContactUsTest"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_84 -->
+
+2020-11-30 16:00:26 DEBUG XlsReader:447 - Sheet doesn't exist with name: dataFile
+2020-11-30 16:00:26 DEBUG XlsReader:317 - Sheet doesn't exist with name: dataFile
+2020-11-30 17:21:17 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2020-11-30 17:21:17 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable signuptest is: signuptest
+2020-11-30 17:21:17 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2020-11-30 17:21:17 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2020-11-30 17:21:17 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [signuptest]
+
+2020-11-30 17:21:17 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_84
+2020-11-30 17:21:17 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_84">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="84"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="com.atmecs.falcon_web.demoblaze.testscript.SignUpTest"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_84 -->
+
+2020-11-30 17:21:54 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2020-11-30 17:21:54 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable signuptest is: signuptest
+2020-11-30 17:21:54 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2020-11-30 17:21:54 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2020-11-30 17:21:54 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [signuptest]
+
+2020-11-30 17:21:54 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_84
+2020-11-30 17:21:54 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_84">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="84"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="com.atmecs.falcon_web.demoblaze.testscript.SignUpTest"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_84 -->
+
+2020-11-30 17:53:10 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2020-11-30 17:53:10 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable signuptest is: signuptest
+2020-11-30 17:53:10 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2020-11-30 17:53:10 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2020-11-30 17:53:10 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [signuptest]
+
+2020-11-30 17:53:11 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_84
+2020-11-30 17:53:11 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_84">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="84"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="com.atmecs.falcon_web.demoblaze.testscript.SignUpTest"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_84 -->
+
+2020-11-30 18:45:02 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2020-11-30 18:45:02 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable signuptest is: signuptest
+2020-11-30 18:45:02 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2020-11-30 18:45:02 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2020-11-30 18:45:02 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [signuptest]
+
+2020-11-30 18:45:02 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_84
+2020-11-30 18:45:02 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_84">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="84"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="com.atmecs.falcon_web.demoblaze.testscript.SignUpTest"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_84 -->
+
+2020-11-30 20:57:16 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2020-11-30 20:57:16 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable signuptest is: signuptest
+2020-11-30 20:57:16 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2020-11-30 20:57:17 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2020-11-30 20:57:17 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [signuptest]
+
+2020-11-30 20:57:17 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_84
+2020-11-30 20:57:17 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_84">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="84"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="com.atmecs.falcon_web.demoblaze.testscript.SignUpTest"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_84 -->
+
+2020-11-30 21:00:54 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2020-11-30 21:00:54 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable signuptest is: signuptest
+2020-11-30 21:00:54 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2020-11-30 21:00:57 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2020-11-30 21:00:57 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [signuptest]
+
+2020-11-30 21:00:57 INFO  TestNGEngineForDesiredSuites:51 - INFO: No Suite Found for the provided Module Name: []
+2020-11-30 21:00:57 ERROR TestNGRunner:89 - Results are not uploaded because uploadResults flag is set to false
+2020-11-30 21:02:23 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2020-11-30 21:02:23 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable signuptest is: signuptest
+2020-11-30 21:02:23 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2020-11-30 21:02:25 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2020-11-30 21:02:25 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [signuptest]
+
+2020-11-30 21:02:25 INFO  TestNGEngineForDesiredSuites:51 - INFO: No Suite Found for the provided Module Name: []
+2020-11-30 21:02:25 ERROR TestNGRunner:89 - Results are not uploaded because uploadResults flag is set to false
+2020-11-30 21:03:46 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2020-11-30 21:03:46 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable signuptest is: signuptest
+2020-11-30 21:03:46 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2020-11-30 21:03:48 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2020-11-30 21:03:48 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [signuptest]
+
+2020-11-30 21:03:48 INFO  TestNGEngineForDesiredSuites:51 - INFO: No Suite Found for the provided Module Name: []
+2020-11-30 21:03:48 ERROR TestNGRunner:89 - Results are not uploaded because uploadResults flag is set to false
+2020-11-30 21:07:55 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2020-11-30 21:07:55 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable signuptest is: signuptest
+2020-11-30 21:07:55 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2020-11-30 21:07:57 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2020-11-30 21:07:57 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [signuptest]
+
+2020-11-30 21:07:57 INFO  TestNGEngineForDesiredSuites:51 - INFO: No Suite Found for the provided Module Name: []
+2020-11-30 21:07:57 ERROR TestNGRunner:89 - Results are not uploaded because uploadResults flag is set to false
+2020-11-30 21:09:48 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2020-11-30 21:09:48 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable signuptest2 is: signuptest2
+2020-11-30 21:09:48 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2020-11-30 21:09:50 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2020-11-30 21:09:50 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [signuptest2]
+
+2020-11-30 21:09:50 INFO  TestNGEngineForDesiredSuites:51 - INFO: No Suite Found for the provided Module Name: []
+2020-11-30 21:09:50 ERROR TestNGRunner:89 - Results are not uploaded because uploadResults flag is set to false
+2020-11-30 21:10:55 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2020-11-30 21:10:55 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable signuptest2 is: signuptest2
+2020-11-30 21:10:55 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2020-11-30 21:10:57 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2020-11-30 21:10:57 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [signuptest2]
+
+2020-11-30 21:10:57 INFO  TestNGEngineForDesiredSuites:51 - INFO: No Suite Found for the provided Module Name: []
+2020-11-30 21:10:57 ERROR TestNGRunner:89 - Results are not uploaded because uploadResults flag is set to false
+2020-11-30 21:24:40 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2020-11-30 21:24:40 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable signuptest2 is: signuptest2
+2020-11-30 21:24:40 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2020-11-30 21:24:46 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2020-11-30 21:24:46 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [signuptest2]
+
+2020-11-30 21:24:46 INFO  TestNGEngineForDesiredSuites:51 - INFO: No Suite Found for the provided Module Name: []
+2020-11-30 21:24:46 ERROR TestNGRunner:89 - Results are not uploaded because uploadResults flag is set to false
+2020-11-30 21:26:30 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2020-11-30 21:26:30 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable signuptest is: signuptest
+2020-11-30 21:26:30 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2020-11-30 21:26:32 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2020-11-30 21:26:32 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [signuptest]
+
+2020-11-30 21:26:32 INFO  TestNGEngineForDesiredSuites:51 - INFO: No Suite Found for the provided Module Name: []
+2020-11-30 21:26:32 ERROR TestNGRunner:89 - Results are not uploaded because uploadResults flag is set to false
+2020-11-30 21:27:14 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2020-11-30 21:27:14 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable signuptest is: signuptest
+2020-11-30 21:27:14 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2020-11-30 21:27:31 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2020-11-30 21:27:31 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [signuptest]
+
+2020-11-30 21:27:31 INFO  TestNGEngineForDesiredSuites:51 - INFO: No Suite Found for the provided Module Name: []
+2020-11-30 21:27:32 ERROR TestNGRunner:89 - Results are not uploaded because uploadResults flag is set to false
+2020-11-30 21:31:53 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2020-11-30 21:31:53 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable test is: test
+2020-11-30 21:31:53 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2020-11-30 21:31:55 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2020-11-30 21:31:55 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [test]
+
+2020-11-30 21:31:55 INFO  TestNGEngineForDesiredSuites:51 - INFO: No Suite Found for the provided Module Name: []
+2020-11-30 21:31:55 ERROR TestNGRunner:89 - Results are not uploaded because uploadResults flag is set to false
+2020-12-01 09:23:17 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2020-12-01 09:23:17 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable test is: test
+2020-12-01 09:23:17 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2020-12-01 09:23:24 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2020-12-01 09:23:24 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [test]
+
+2020-12-01 09:23:24 INFO  TestNGEngineForDesiredSuites:51 - INFO: No Suite Found for the provided Module Name: []
+2020-12-01 09:23:24 ERROR TestNGRunner:89 - Results are not uploaded because uploadResults flag is set to false
+2020-12-01 09:35:06 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2020-12-01 09:35:06 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable test is: test
+2020-12-01 09:35:06 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2020-12-01 09:35:07 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2020-12-01 09:35:07 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [test]
+
+2020-12-01 09:35:07 INFO  TestNGEngineForDesiredSuites:51 - INFO: No Suite Found for the provided Module Name: []
+2020-12-01 09:35:07 ERROR TestNGRunner:89 - Results are not uploaded because uploadResults flag is set to false
+2020-12-01 09:59:47 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2020-12-01 09:59:47 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable test is: test
+2020-12-01 09:59:47 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2020-12-01 09:59:47 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2020-12-01 09:59:47 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [test]
+
+2020-12-01 09:59:47 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_84
+2020-12-01 09:59:47 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_84">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="84"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="com.atmecs.falcon_web.demoblaze.testscript.SignUpTest"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_84 -->
+
+2020-12-01 10:01:31 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2020-12-01 10:01:31 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable test is: test
+2020-12-01 10:01:31 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2020-12-01 10:01:32 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2020-12-01 10:01:32 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [test]
+
+2020-12-01 10:01:32 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_84
+2020-12-01 10:01:32 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_84">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="84"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="com.atmecs.falcon_web.demoblaze.testscript.SignUpTest"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_84 -->
+
+2020-12-01 10:05:07 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2020-12-01 10:05:07 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable test is: test
+2020-12-01 10:05:07 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2020-12-01 10:05:07 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2020-12-01 10:05:07 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [test]
+
+2020-12-01 10:05:07 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_84
+2020-12-01 10:05:07 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_84">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="84"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="com.atmecs.falcon_web.demoblaze.testscript.SignUpTest"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_84 -->
+
+2020-12-01 10:05:47 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2020-12-01 10:05:47 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable test is: test
+2020-12-01 10:05:47 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2020-12-01 10:05:48 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2020-12-01 10:05:48 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [test]
+
+2020-12-01 10:05:48 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_84
+2020-12-01 10:05:48 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_84">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="84"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="com.atmecs.falcon_web.demoblaze.testscript.SignUpTest"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_84 -->
+
+2020-12-01 10:15:01 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2020-12-01 10:15:01 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable test is: test
+2020-12-01 10:15:01 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2020-12-01 10:15:01 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2020-12-01 10:15:01 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [test]
+
+2020-12-01 10:15:01 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_84
+2020-12-01 10:15:01 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_84">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="84"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="com.atmecs.falcon_web.demoblaze.testscript.SignUpTest"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_84 -->
+
+2020-12-01 10:15:37 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2020-12-01 10:15:37 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable test is: test
+2020-12-01 10:15:37 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2020-12-01 10:15:37 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2020-12-01 10:15:37 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [test]
+
+2020-12-01 10:15:37 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_84
+2020-12-01 10:15:37 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_84">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="84"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="com.atmecs.falcon_web.demoblaze.testscript.SignUpTest"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_84 -->
+
+2020-12-01 10:18:53 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2020-12-01 10:18:53 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable test is: test
+2020-12-01 10:18:53 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2020-12-01 10:18:53 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2020-12-01 10:18:53 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [test]
+
+2020-12-01 10:18:53 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_84
+2020-12-01 10:18:53 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_84">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="84"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="com.atmecs.falcon_web.demoblaze.testscript.SignUpTest"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_84 -->
+
+2020-12-01 10:19:50 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2020-12-01 10:19:50 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable test is: test
+2020-12-01 10:19:50 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2020-12-01 10:19:50 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2020-12-01 10:19:50 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [test]
+
+2020-12-01 10:19:50 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_84
+2020-12-01 10:19:50 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_84">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="84"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="com.atmecs.falcon_web.demoblaze.testscript.SignUpTest"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_84 -->
+
+2020-12-01 10:24:41 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2020-12-01 10:24:42 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable test is: test
+2020-12-01 10:24:42 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2020-12-01 10:24:42 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2020-12-01 10:24:42 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [test]
+
+2020-12-01 10:24:42 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_84
+2020-12-01 10:24:42 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_84">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="84"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="com.atmecs.falcon_web.demoblaze.testscript.SignUpTest"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_84 -->
+
+2020-12-01 10:27:41 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2020-12-01 10:27:41 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable test is: test
+2020-12-01 10:27:41 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2020-12-01 10:27:41 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2020-12-01 10:27:41 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [test]
+
+2020-12-01 10:27:41 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_84
+2020-12-01 10:27:41 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_84">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="84"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="com.atmecs.falcon_web.demoblaze.testscript.SignUpTest"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_84 -->
+
+2020-12-01 10:30:26 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2020-12-01 10:30:26 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable signuptest is: signuptest
+2020-12-01 10:30:26 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2020-12-01 10:30:26 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2020-12-01 10:30:26 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [signuptest]
+
+2020-12-01 10:30:26 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_84
+2020-12-01 10:30:26 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_84">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="84"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="com.atmecs.falcon_web.demoblaze.testscript.SignUpTest"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_84 -->
+
+2020-12-01 11:31:12 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2020-12-01 11:31:12 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable loginTest is: loginTest
+2020-12-01 11:31:12 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2020-12-01 11:31:12 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2020-12-01 11:31:12 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [loginTest]
+
+2020-12-01 11:31:13 INFO  TestNGEngineForDesiredSuites:51 - INFO: No Suite Found for the provided Module Name: []
+2020-12-01 11:31:13 ERROR TestNGRunner:89 - Results are not uploaded because uploadResults flag is set to false
+2020-12-01 11:33:15 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2020-12-01 11:33:15 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable logintest is: logintest
+2020-12-01 11:33:15 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2020-12-01 11:33:15 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2020-12-01 11:33:15 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [logintest]
+
+2020-12-01 11:33:15 INFO  TestNGEngineForDesiredSuites:51 - INFO: No Suite Found for the provided Module Name: []
+2020-12-01 11:33:15 ERROR TestNGRunner:89 - Results are not uploaded because uploadResults flag is set to false
+2020-12-01 11:34:41 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2020-12-01 11:34:41 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable loginTest is: loginTest
+2020-12-01 11:34:41 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2020-12-01 11:34:41 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2020-12-01 11:34:41 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [loginTest]
+
+2020-12-01 11:34:41 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_84
+2020-12-01 11:34:41 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_84">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="84"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="com.atmecs.falcon_web.demoblaze.testscript.LoginTest"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_84 -->
+
+2020-12-01 11:39:03 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2020-12-01 11:39:03 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable loginTest is: loginTest
+2020-12-01 11:39:03 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2020-12-01 11:39:03 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2020-12-01 11:39:03 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [loginTest]
+
+2020-12-01 11:39:03 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_84
+2020-12-01 11:39:03 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_84">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="84"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="com.atmecs.falcon_web.demoblaze.testscript.LoginTest"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_84 -->
+
+2020-12-01 11:41:32 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2020-12-01 11:41:32 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable loginTest is: loginTest
+2020-12-01 11:41:32 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2020-12-01 11:41:32 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2020-12-01 11:41:32 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [loginTest]
+
+2020-12-01 11:41:32 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_84
+2020-12-01 11:41:32 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_84">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="84"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="com.atmecs.falcon_web.demoblaze.testscript.LoginTest"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_84 -->
+
+2020-12-01 11:42:30 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2020-12-01 11:42:30 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable loginTest is: loginTest
+2020-12-01 11:42:30 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2020-12-01 11:42:30 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2020-12-01 11:42:30 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [loginTest]
+
+2020-12-01 11:42:30 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_84
+2020-12-01 11:42:30 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_84">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="84"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="com.atmecs.falcon_web.demoblaze.testscript.LoginTest"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_84 -->
+
+2020-12-01 11:45:14 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2020-12-01 11:45:14 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable loginTest is: loginTest
+2020-12-01 11:45:14 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2020-12-01 11:45:14 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2020-12-01 11:45:14 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [loginTest]
+
+2020-12-01 11:45:14 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_84
+2020-12-01 11:45:14 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_84">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="84"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="com.atmecs.falcon_web.demoblaze.testscript.LoginTest"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_84 -->
+
+2020-12-01 11:46:23 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2020-12-01 11:46:23 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable loginTest is: loginTest
+2020-12-01 11:46:23 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2020-12-01 11:46:23 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2020-12-01 11:46:23 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [loginTest]
+
+2020-12-01 11:46:23 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_84
+2020-12-01 11:46:23 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_84">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="84"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="com.atmecs.falcon_web.demoblaze.testscript.LoginTest"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_84 -->
+
+2020-12-01 11:49:16 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2020-12-01 11:49:16 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable loginTest is: loginTest
+2020-12-01 11:49:16 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2020-12-01 11:49:16 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2020-12-01 11:49:16 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [loginTest]
+
+2020-12-01 11:49:16 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_84
+2020-12-01 11:49:16 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_84">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="84"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="com.atmecs.falcon_web.demoblaze.testscript.LoginTest"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_84 -->
+
+2020-12-01 11:51:33 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2020-12-01 11:51:33 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable loginTest is: loginTest
+2020-12-01 11:51:33 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2020-12-01 11:51:33 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2020-12-01 11:51:33 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [loginTest]
+
+2020-12-01 11:51:33 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_84
+2020-12-01 11:51:33 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_84">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="84"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="com.atmecs.falcon_web.demoblaze.testscript.LoginTest"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_84 -->
+
+2020-12-01 11:54:19 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2020-12-01 11:54:19 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable signupTest is: signupTest
+2020-12-01 11:54:19 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2020-12-01 11:54:19 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2020-12-01 11:54:19 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [signupTest]
+
+2020-12-01 11:54:19 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_84
+2020-12-01 11:54:19 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_84">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="84"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="com.atmecs.falcon_web.demoblaze.testscript.SignUpTest"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_84 -->
+
+2020-12-01 16:07:28 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2020-12-01 16:07:28 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable signupTest is: signupTest
+2020-12-01 16:07:28 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84, WIN_10_firefox_83 is: WIN_10_chrome_84, WIN_10_firefox_83
+2020-12-01 16:07:28 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2020-12-01 16:07:28 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [signupTest]
+
+2020-12-01 16:07:28 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample- WIN_10_firefox_83
+2020-12-01 16:07:28 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample- WIN_10_firefox_83">
+  <parameter name="os" value=" WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="firefox"/>
+  <parameter name="browserVersion" value="83"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="com.atmecs.falcon_web.demoblaze.testscript.SignUpTest"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample- WIN_10_firefox_83 -->
+
+2020-12-01 16:07:28 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_84
+2020-12-01 16:07:28 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_84">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="84"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="com.atmecs.falcon_web.demoblaze.testscript.SignUpTest"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_84 -->
+
+2020-12-01 18:31:23 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2020-12-01 18:31:23 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable signupTest is: signupTest
+2020-12-01 18:31:23 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84, WIN_10_firefox_83 is: WIN_10_chrome_84, WIN_10_firefox_83
+2020-12-01 18:31:24 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2020-12-01 18:31:24 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [signupTest]
+
+2020-12-01 18:31:24 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample- WIN_10_firefox_83
+2020-12-01 18:31:24 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample- WIN_10_firefox_83">
+  <parameter name="os" value=" WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="firefox"/>
+  <parameter name="browserVersion" value="83"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="com.atmecs.falcon_web.demoblaze.testscript.SignUpTest"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample- WIN_10_firefox_83 -->
+
+2020-12-01 18:31:24 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_84
+2020-12-01 18:31:24 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_84">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="84"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="com.atmecs.falcon_web.demoblaze.testscript.SignUpTest"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_84 -->
+
+2020-12-01 18:33:36 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2020-12-01 18:33:36 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable signupTest is: signupTest
+2020-12-01 18:33:36 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84, WIN_10_firefox_83 is: WIN_10_chrome_84, WIN_10_firefox_83
+2020-12-01 18:33:36 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2020-12-01 18:33:36 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [signupTest]
+
+2020-12-01 18:33:36 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample- WIN_10_firefox_83
+2020-12-01 18:33:36 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample- WIN_10_firefox_83">
+  <parameter name="os" value=" WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="firefox"/>
+  <parameter name="browserVersion" value="83"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="com.atmecs.falcon_web.demoblaze.testscript.SignUpTest"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample- WIN_10_firefox_83 -->
+
+2020-12-01 18:33:36 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_84
+2020-12-01 18:33:36 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_84">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="84"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="com.atmecs.falcon_web.demoblaze.testscript.SignUpTest"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_84 -->
+

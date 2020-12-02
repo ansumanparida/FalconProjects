@@ -1,0 +1,25 @@
+2020-12-01 18:33:52,058  INFO [TestNG-suites-2] HomePage:51 - Click on SignUp Link
+2020-12-01 18:33:52,285  INFO [TestNG-suites-2] HomePage:51 - Insert Username to Signup
+2020-12-01 18:33:53,035  INFO [TestNG-suites-1] HomePage:51 - Click on SignUp Link
+2020-12-01 18:33:53,396  INFO [TestNG-suites-1] HomePage:51 - Insert Username to Signup
+2020-12-01 18:33:53,733  INFO [TestNG-suites-1] HomePage:51 - Insert Password to Signup
+2020-12-01 18:33:53,834  INFO [TestNG-suites-1] HomePage:51 - Click On SignUp Button
+2020-12-01 18:33:54,158  INFO [TestNG-suites-1] HomePage:51 - Getting Alert Message
+2020-12-01 18:33:55,793  INFO [TestNG-suites-1] HomePage:51 - Alert Message = This user already exist.
+2020-12-01 18:34:06,771  INFO [TestNG-suites-2] HomePage:51 - Click on SignUp Link
+2020-12-01 18:34:07,243  INFO [TestNG-suites-2] HomePage:51 - Insert Username to Signup
+2020-12-01 18:34:17,902  INFO [TestNG-suites-1] HomePage:51 - Click on SignUp Link
+2020-12-01 18:34:18,220  INFO [TestNG-suites-1] HomePage:51 - Insert Username to Signup
+2020-12-01 18:34:18,352  INFO [TestNG-suites-1] HomePage:51 - Insert Password to Signup
+2020-12-01 18:34:18,448  INFO [TestNG-suites-1] HomePage:51 - Click On SignUp Button
+2020-12-01 18:34:18,712  INFO [TestNG-suites-1] HomePage:51 - Getting Alert Message
+2020-12-01 18:34:19,257  INFO [TestNG-suites-2] HomePage:51 - Click on SignUp Link
+2020-12-01 18:34:19,362  INFO [TestNG-suites-2] HomePage:51 - Insert Username to Signup
+2020-12-01 18:34:20,299  INFO [TestNG-suites-1] HomePage:51 - Alert Message = This user already exist.
+2020-12-01 18:34:34,384  INFO [TestNG-suites-1] HomePage:51 - Click on SignUp Link
+2020-12-01 18:34:34,797  INFO [TestNG-suites-1] HomePage:51 - Insert Username to Signup
+2020-12-01 18:34:34,906  INFO [TestNG-suites-1] HomePage:51 - Insert Password to Signup
+2020-12-01 18:34:34,991  INFO [TestNG-suites-1] HomePage:51 - Click On SignUp Button
+2020-12-01 18:34:35,258  INFO [TestNG-suites-1] HomePage:51 - Getting Alert Message
+2020-12-01 18:34:36,344  INFO [TestNG-suites-1] HomePage:51 - Alert Message = This user already exist.
+2020-12-01 18:34:40,473 ERROR [com.atmecs.falcon_web.demoblaze.runner.TestNGRunner.main()] TestNGRunner:89 - Results are not uploaded because uploadResults flag is set to false
