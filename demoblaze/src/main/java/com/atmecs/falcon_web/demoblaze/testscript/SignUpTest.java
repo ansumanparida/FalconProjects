@@ -10,6 +10,8 @@ import com.atmecs.falcon_web.demoblaze.pages.SignupPage;
 import com.atmecs.falcon_web.demoblaze.testsuite.SampleTestSuiteBase;
 import com.atmecs.falcon_web.demoblaze.utils.ExcelDataProvider;
 
+import testDataProvider.SignUpData;
+
 public class SignUpTest extends SampleTestSuiteBase {
 	
 	String url = PropertyParser.readEnvOrConfigProperty("url");
@@ -23,14 +25,14 @@ public class SignUpTest extends SampleTestSuiteBase {
 	}
 	
 	@Test(dataProvider = "DataSheet", dataProviderClass=ExcelDataProvider.class)
-	public void testSignUp(String username, String password) {
+	public void testSignUp(SignUpData signUpData) {
 		
 		HomePage homePage = new HomePage(browser);
 		SignupPage signupPage = new SignupPage(browser);
 		
 		homePage.navigateToUrl(url, os, osVersion, br, browserVersion);
 		homePage.clickSignupLink();
-		signupPage.signUp(username, password);
+		signupPage.signUp(signUpData.getUserName(), signUpData.getPassword());
 		
 		
 	}
