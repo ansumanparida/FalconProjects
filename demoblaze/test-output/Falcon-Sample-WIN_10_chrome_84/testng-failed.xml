@@ -7,15 +7,15 @@
   <parameter name="browserVersion" value="84"/>
   <test thread-count="5" name="SampleTest(failed)">
     <classes>
-      <class name="com.atmecs.falcon_web.demoblaze.testscript.SignUpTest">
+      <class name="com.atmecs.falcon_web.demoblaze.testscript.LoginTest">
         <methods>
-          <include name="initalizeBrowser"/>
           <include name="closeBrowser"/>
-          <include name="testSignUp" invocation-numbers="1 2"/>
+          <include name="initBrowser"/>
+          <include name="testLogin" invocation-numbers="0"/>
           <include name="teardown"/>
           <include name="preSetup"/>
         </methods>
-      </class> <!-- com.atmecs.falcon_web.demoblaze.testscript.SignUpTest -->
+      </class> <!-- com.atmecs.falcon_web.demoblaze.testscript.LoginTest -->
     </classes>
   </test> <!-- SampleTest(failed) -->
 </suite> <!-- Failed suite [Falcon-Sample-WIN_10_chrome_84] -->

@@ -26,9 +26,9 @@ public class LoginPage extends BasePage {
 		browser.getTextField().enterTextField(LocatorType.XPATH, loginPageProperties.get("LoginPassword"), password);
 		report.info("Click On Login Button");
 		browser.getFindFromBrowser().findElementByXpath(loginPageProperties.get("LoginButton")).click();
-		report.info("Getting Alert Message");
-		String alertText = browser.getAlert().getAlertText(2000);
-		report.info("Alert Message = " + alertText);
+//		report.info("Getting Alert Message");
+//		String alertText = browser.getAlert().getAlertText(2000);
+//		report.info("Alert Message = " + alertText);
 	}
 	
 			

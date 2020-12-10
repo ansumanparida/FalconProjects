@@ -1,11 +1,13 @@
-2020-12-02 12:21:38,457  INFO [com.atmecs.falcon_web.demoblaze.runner.TestNGRunner.main()] HomePage:51 - Click on SignUp Link
-2020-12-02 12:21:38,595  INFO [com.atmecs.falcon_web.demoblaze.runner.TestNGRunner.main()] HomePage:51 - Insert Username to Signup
-2020-12-02 12:21:39,092  INFO [com.atmecs.falcon_web.demoblaze.runner.TestNGRunner.main()] HomePage:51 - Insert Password to Signup
-2020-12-02 12:21:39,283  INFO [com.atmecs.falcon_web.demoblaze.runner.TestNGRunner.main()] HomePage:51 - Click On SignUp Button
-2020-12-02 12:21:39,367  INFO [com.atmecs.falcon_web.demoblaze.runner.TestNGRunner.main()] HomePage:51 - Getting Alert Message
-2020-12-02 12:21:40,865  INFO [com.atmecs.falcon_web.demoblaze.runner.TestNGRunner.main()] HomePage:51 - Alert Message = This user already exist.
-2020-12-02 12:21:51,639  INFO [com.atmecs.falcon_web.demoblaze.runner.TestNGRunner.main()] HomePage:51 - Click on SignUp Link
-2020-12-02 12:21:51,765  INFO [com.atmecs.falcon_web.demoblaze.runner.TestNGRunner.main()] HomePage:51 - Insert Username to Signup
-2020-12-02 12:22:01,876  INFO [com.atmecs.falcon_web.demoblaze.runner.TestNGRunner.main()] HomePage:51 - Click on SignUp Link
-2020-12-02 12:22:01,983  INFO [com.atmecs.falcon_web.demoblaze.runner.TestNGRunner.main()] HomePage:51 - Insert Username to Signup
-2020-12-02 12:22:02,591 ERROR [com.atmecs.falcon_web.demoblaze.runner.TestNGRunner.main()] TestNGRunner:89 - Results are not uploaded because uploadResults flag is set to false
+2020-12-04 17:54:37,193  INFO [com.atmecs.falcon_web.demoblaze.runner.TestNGRunner.main()] HomePage:51 - Click on Login Link
+2020-12-04 17:54:37,643  INFO [com.atmecs.falcon_web.demoblaze.runner.TestNGRunner.main()] LoginPage:51 - Enter UserName To Login
+2020-12-04 17:54:37,879  INFO [com.atmecs.falcon_web.demoblaze.runner.TestNGRunner.main()] LoginPage:51 - Enter Password To Login
+2020-12-04 17:54:38,284  INFO [com.atmecs.falcon_web.demoblaze.runner.TestNGRunner.main()] LoginPage:51 - Click On Login Button
+2020-12-04 17:54:57,027  INFO [com.atmecs.falcon_web.demoblaze.runner.TestNGRunner.main()] HomePage:51 - Click on Login Link
+2020-12-04 17:54:57,503  INFO [com.atmecs.falcon_web.demoblaze.runner.TestNGRunner.main()] LoginPage:51 - Enter UserName To Login
+2020-12-04 17:54:57,923  INFO [com.atmecs.falcon_web.demoblaze.runner.TestNGRunner.main()] LoginPage:51 - Enter Password To Login
+2020-12-04 17:54:58,296  INFO [com.atmecs.falcon_web.demoblaze.runner.TestNGRunner.main()] LoginPage:51 - Click On Login Button
+2020-12-04 17:55:18,586  INFO [com.atmecs.falcon_web.demoblaze.runner.TestNGRunner.main()] HomePage:51 - Click on Login Link
+2020-12-04 17:55:18,972  INFO [com.atmecs.falcon_web.demoblaze.runner.TestNGRunner.main()] LoginPage:51 - Enter UserName To Login
+2020-12-04 17:55:19,388  INFO [com.atmecs.falcon_web.demoblaze.runner.TestNGRunner.main()] LoginPage:51 - Enter Password To Login
+2020-12-04 17:55:19,868  INFO [com.atmecs.falcon_web.demoblaze.runner.TestNGRunner.main()] LoginPage:51 - Click On Login Button
+2020-12-04 17:55:26,077 ERROR [com.atmecs.falcon_web.demoblaze.runner.TestNGRunner.main()] TestNGRunner:89 - Results are not uploaded because uploadResults flag is set to false

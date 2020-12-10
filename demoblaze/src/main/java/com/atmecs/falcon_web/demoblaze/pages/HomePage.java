@@ -26,4 +26,9 @@ public class HomePage extends BasePage {
 		browser.getFindFromBrowser().findElementByXpath(homePageProperties.get("Signup")).click();
 		
 	}
+	public void clickContactUsLink() {
+		report.info("Click on ContactUs Link");
+		browser.getFindFromBrowser().findElementByXpath(homePageProperties.get("ContactUs")).click();
+		
+	}
 }

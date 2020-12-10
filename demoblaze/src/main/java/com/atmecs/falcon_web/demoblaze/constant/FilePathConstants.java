@@ -31,6 +31,9 @@ public class FilePathConstants {
 	
 	public final static String LOGIN_LOCATOR_PATH = DEMOBLAZE_HOME 
 			+ "LoginPageLocators.properties";
+	
+	public final static String CONTACTUS_LOCATOR_PATH = DEMOBLAZE_HOME 
+			+ "ContactUsPageLocators.properties";
 
 	
 
